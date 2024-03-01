@@ -1,4 +1,5 @@
 Recipe Book App
+
 Recipe Book is an application that will allow users to create a collection of recipe that users can view in detail. 
 Users often forget the recipe they mastered overtime. This app identifies and solves this problem by helping user store all the recipe they mastered overtime.
 This problem made us think about the Recipe-Book app.Through various user-friendly functions the app will implement registering and login functionalities, a record of database stored by each user. 
